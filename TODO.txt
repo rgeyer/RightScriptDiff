@@ -1,0 +1,4 @@
+- The path_to_scripts when entered as a param can not contain any spaces
+- It'd be great to be able to silence the fricken xpath garbage
+- If/when the RightScale API is enhanced to allow the upload or edit of RightScripts, we can just push the differences
+  instead of just showing them.

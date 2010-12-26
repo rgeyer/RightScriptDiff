@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export login="youremail@here.com"
+export password="password"
+export account=12345
